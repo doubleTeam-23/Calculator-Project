@@ -94,6 +94,7 @@ export default function BasicCalculator({ className }: BasicCalculatorProps) {
     setWaitingForNewNumber(true);
   };
 
+
   // 重置计算器
   const handleClear = () => {
     setDisplayValue('0');
