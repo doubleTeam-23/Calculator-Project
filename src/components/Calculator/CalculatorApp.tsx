@@ -98,7 +98,7 @@ export default function CalculatorApp({ className }: CalculatorAppProps) {
       
       {/* 页脚 */}
       <div className="mt-8 text-center text-gray-500 text-sm">
-        <p>科学计算器 v1.0 | 支持多种数学计算功能</p>
+        <p>科学计算器 v3.0 | 支持多种数学计算功能</p>
       </div>
     </div>
   );
