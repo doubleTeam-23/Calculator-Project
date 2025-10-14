@@ -61,7 +61,7 @@ export default function Sidebar() {
       {/* 侧边栏底部 */}
       <div className="absolute bottom-0 w-64 p-4 border-t border-gray-700">
         <div className={`text-sm ${isDark ? 'text-gray-400' : 'text-gray-500'} text-center`}>
-          <p>科学计算器 v1.0</p>
+          <p>科学计算器 v3.0</p>
         </div>
       </div>
     </aside>
